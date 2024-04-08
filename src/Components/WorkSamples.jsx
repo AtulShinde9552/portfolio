@@ -49,12 +49,12 @@ const WorkSamples = () => {
 
             <div className="col-md-3 m-4">
                 <div className="card text-bg-dark h-100" data-aos="zoom-in" >
-                <a target='_blank'  rel="noreferrer" className='btn btn-sm btn-secondary m-1 position-absolute z-1' href="https://github.com/AtulShinde9552/mern-blog">Code</a>
+                <a target='_blank'  rel="noreferrer" className='btn btn-sm btn-secondary m-1 position-absolute z-1' href="https://github.com/AtulShinde9552/mern-blog-main">Code</a>
                         <img src={myblog} className="card-img opacity-50" alt="..." style={{height:'210px'}} />
                         <div className="card-img-overlay d-flex flex-column align-items-center justify-content-center">
                             <h5 className="card-title fw-bold text-center">Bloging Web Application</h5>
                             <p className="card-text fw-bold text-center"> A personal bloging web application where we can post our blogs. With Admin Pannel</p>
-                            <a target='_blank'  rel="noreferrer"  href='https://mern-blog-4obe.onrender.com/' className='btn btn-sm btn-warning position-absolute sticky-bottom my-3'>Live</a>
+                            <a target='_blank'  rel="noreferrer"  href='https://mern-blog-main-msem.onrender.com' className='btn btn-sm btn-warning position-absolute sticky-bottom my-3'>Live</a>
                         </div>
                     </div>
                 </div>
